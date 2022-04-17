@@ -1,7 +1,7 @@
 ## About
 
 Visualizing Data Using Matplotlib 
-I used matplotlib figure and axes methods to visualize the dataset(abs) using several visualization techniques such as error bar, boxplot, histplot bar plot etc
+I used matplotlib figure and axes objects to visualize the dataset(abs) using several visualization techniques such as error bar, boxplot, histplot bar plot etc
 
 ## How To Run The Code
 
